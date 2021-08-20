@@ -1,0 +1,16 @@
+/*Cibler les balises :*/
+p {
+    color : red; /*syntaxe paramètre : valeur;*/
+}
+
+/*cibler une balise spécifique - attribut id="nom unique à choisir" à ajouter dans le code HTML*/
+#nomDeLId /*à remplacer par le nom choisi, il faut garder le # */
+{
+    color : green;
+}
+
+/*cibler plusieurs balises spécifiques - attribut class="nom unique à choisir" à ajouter dans le code HTML (2 balises à choisirs) */
+.nomDeLaClasse /*à remplacer par le nom choisi, il faut garder le . */
+{
+    color : purple;
+}
